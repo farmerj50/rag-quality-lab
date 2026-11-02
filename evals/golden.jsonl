@@ -1,0 +1,4 @@
+{"question":"When is the quality review meeting?","expected_source":"team_quality_policy.txt","expected_terms":["Tuesday"],"answerable":true}
+{"question":"What is required for release approval?","expected_source":"team_quality_policy.txt","expected_terms":["regression","critical"],"answerable":true}
+{"question":"Who approves supplier deliverables?","expected_source":"team_quality_policy.txt","expected_terms":["acceptance"],"answerable":true}
+{"question":"What is the CEO's favorite food?","expected_source":null,"expected_terms":[],"answerable":false}

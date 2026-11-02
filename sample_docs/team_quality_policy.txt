@@ -1,0 +1,5 @@
+Project Orion Quality Handbook
+The required release gate is a passing regression suite and zero unresolved critical defects.
+The quality review meeting takes place every Tuesday. Audit findings are recorded in the issue tracker and each corrective action has an assigned owner.
+Supplier deliverables must pass an acceptance review before they are approved for production use.
+Critical incidents must be escalated to the quality lead within one hour.
